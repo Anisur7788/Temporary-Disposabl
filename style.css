@@ -182,7 +182,24 @@ a{
 .div10{
     margin-top: 10px;
 }
-
+.div10 a{
+    color:  #0D6EFD;
+    line-height: 1.6;
+}
+.div11{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: #212529;
+    color: aliceblue;
+    margin-top: 10px;
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+.div11 a{
+    color: #0D6EFD;
+}
 
 .a50{
     margin-top: 1000px;
