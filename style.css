@@ -55,7 +55,7 @@
     border: 1px solid white;
     background-color: white;
     width: 633px;
-    height: 500px;
+    height: 513px;
     margin-left: 309px;
     margin-top: 157px;
 
@@ -125,7 +125,53 @@ hr{
     color: white;
 }
 .buton4{
-    padding-top: ;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 300px;
+    margin-top: 8px;
+    background-color: #0D6EFD;
+    border: none;
+    border-radius: 4px;
+
+}
+.span8{
+    font-size: 20px;
+    color: white;
+}
+.div9 i{
+    color: #0D6EFD;
+    font-size: 30px;
+    cursor: pointer;
+    
+    
+}
+.div9{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.div9 div{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 3px;
+}
+a{ 
+    text-decoration: none;
+}
+.butn10{
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 252px;
+    padding-right: 252px;
+    margin-top: 8px;
+    background-color: #0D6EFD;
+    border: none;
+    border-radius: 4px;
 }
 
 
